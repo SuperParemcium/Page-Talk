@@ -1,0 +1,10 @@
+node_modules
+dist
+data/settings.json
+data/annotations/
+*.log
+.DS_Store
+src-tauri/target/
+src-tauri/resources/
+src-tauri/gen/
+
